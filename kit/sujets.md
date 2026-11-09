@@ -4,28 +4,15 @@ Chaque publication prend le PREMIER sujet non coché de sa rubrique, puis le coc
 avec la date (ex. `- [x] 2026-11-10 — ...`). Quand une rubrique n'a plus que
 5 sujets libres, en ajouter 10 nouveaux dans le même esprit (jamais un sujet déjà fait).
 
-## Matin (8h) — « Conseil du jour » : marketing digital, réseaux sociaux, branding
+## Matin (7h42) — « Actu du digital » : une nouveauté vérifiée de la semaine
 
-- [ ] 5 astuces pour faire grandir ton compte Instagram
-- [ ] Les 3 secondes qui décident si on regarde ta vidéo (l'accroche)
-- [ ] Bio Instagram : les 4 éléments d'une bio qui convertit
-- [ ] Quand publier ? Trouver tes meilleures heures avec tes statistiques
-- [ ] Reels, carrousels, stories : à quoi sert chaque format
-- [ ] 5 erreurs qui empêchent ta page de grandir
-- [ ] Comment écrire une légende qui fait réagir
-- [ ] Pourquoi une charte graphique fait vendre plus
-- [ ] Les hashtags : combien, lesquels, comment les choisir
-- [ ] Transformer tes clients satisfaits en publicité gratuite (avis, témoignages)
-- [ ] WhatsApp Business : 5 fonctions que les commerçants n'utilisent pas
-- [ ] Photo produit au téléphone : 5 règles simples
-- [ ] Logo : 5 signes que le tien doit être refait
-- [ ] Planifier un mois de contenu en 1 heure
-- [ ] Les couleurs d'une marque et ce qu'elles disent
-- [ ] Faire une pub Facebook/Instagram avec un petit budget
-- [ ] Répondre aux commentaires négatifs sans perdre de clients
-- [ ] Storytelling : raconter l'histoire de ta marque
-- [ ] Collaborer avec des influenceurs locaux : par où commencer
-- [ ] Les statistiques Instagram à regarder chaque semaine
+Pas de liste à l'avance : chaque matin, chercher sur le web une nouveauté des 7 derniers
+jours (Instagram, TikTok, WhatsApp, Facebook, YouTube, IA, outils de création, pub en
+ligne) confirmée par au moins une source fiable (annonce officielle ou grand média tech).
+On INFORME (ce qui change, pour qui, quand), on ne donne pas de leçon.
+Ne jamais reprendre une actu déjà publiée : noter chaque actu publiée ci-dessous.
+
+Actus déjà publiées :
 
 ## Soir (19h) — « Le saviez-vous ? » : histoires vraies de marques, logos, internet
 

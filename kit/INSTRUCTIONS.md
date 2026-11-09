@@ -22,15 +22,22 @@ sans validation préalable.
 
 ## Étapes
 
-1. Ouvrir `kit/sujets.md`, prendre le premier sujet non coché de la rubrique du créneau
-   (matin = « Conseil du jour », soir = « Le saviez-vous ? »).
+1. Ouvrir `kit/sujets.md`.
+   - Matin = « Actu du digital » : chercher une nouveauté des 7 derniers jours, vérifiée par
+     une source fiable, jamais déjà publiée (voir la liste). Ton informatif : ce qui change,
+     pour qui, depuis quand, ce que ça veut dire pour une marque à Kinshasa. Pas de leçon.
+     Slide 1 = tag « Actu du digital » + titre accrocheur ; slides suivantes = les faits ;
+     dernière slide `cta` = « Ce qu'il faut retenir » + appel à écrire à Donova.
+     Mentionner la source (nom du média ou de l'entreprise) sur une slide.
+   - Soir = « Le saviez-vous ? » : premier sujet non coché de la rubrique Soir.
 2. Écrire le contenu, chercher 1 à 2 photos Unsplash et les télécharger dans le
    dossier du post : `AAAA-MM-JJ-matin-<mot-cle>/` ou `AAAA-MM-JJ-soir-<mot-cle>/`.
 3. Écrire `post.json` dans ce dossier (modèle : `kit/exemple-post.json`), puis lancer
    `python3 kit/render.py <dossier>`. Regarder chaque slide (lecture de l'image) :
    texte qui ne déborde pas, rien de coupé, logo présent. Corriger et relancer si besoin.
 4. Écrire la légende dans `<dossier>/legende.txt`.
-5. Cocher le sujet dans `kit/sujets.md` avec la date.
+5. Dans `kit/sujets.md` : cocher le sujet du soir avec la date, ou ajouter l'actu du matin
+   à la liste « Actus déjà publiées » (`- AAAA-MM-JJ — titre — source`).
 6. Commit + push sur `main` (supprimer les photos sources de plus de 8 Mo s'il y en a).
 7. Vérifier que chaque image répond 200 en `image/jpeg` à
    `https://raw.githubusercontent.com/danielmalaba420-pixel/donova-posts/main/<dossier>/slide-N.jpg`
