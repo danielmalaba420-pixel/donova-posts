@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <circle cx="600" cy="600" r="600" fill="#FFFFFF"/>
+  <!-- Main red folded monogram, reconstructed from the supplied reference -->
+  <path d="M190 175 L690 176 L970 455 L968 825 L690 1100 L245 1100
+           C285 980 370 900 510 900 L690 900 L690 455 L455 455
+           L455 660 C455 730 425 765 365 765 L190 765 Z"
+        fill="#ED2429"/>
+  <!-- Right/front folded face -->
+  <path d="M690 176 L970 455 L968 825 L690 1100 L690 455 Z"
+        fill="#C91F2B"/>
+  <!-- Upper angled fold -->
+  <path d="M690 176 L690 455 L610 455 Z" fill="#8F1827"/>
+  <!-- Lower central fold / depth -->
+  <path d="M690 900 L690 1100 L645 1100 C615 1010 610 950 610 900 Z"
+        fill="#8F1827"/>
+  <!-- Left upper face restored over fold -->
+  <path d="M190 175 L690 176 L610 455 L455 455 L455 660
+           C455 730 425 765 365 765 L190 765 Z" fill="#ED2429"/>
+  <!-- Right face highlight edge -->
+  <path d="M690 455 L970 455 L968 825 L690 1100 Z" fill="#C91F2B"/>
+</svg>

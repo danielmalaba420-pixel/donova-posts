@@ -1,0 +1,19 @@
+{
+  "slides": [
+    {"type": "cover", "tag": "Le saviez-vous ?", "photo": "photo1.jpg", "photo_credit": "Photo : Prénom Nom / Unsplash",
+     "title": "Le logo *Nike*\na coûté 35 $", "swipe": "L'histoire complète", "size": 104},
+    {"type": "text", "tag": "1971 · Les débuts", "big": "35 $",
+     "title": "C'est ce qu'a été payée\nla créatrice du « Swoosh ».",
+     "body": "À l'époque, *Carolyn Davidson* est une étudiante en graphisme. On lui demande un logo qui évoque le *mouvement*."},
+    {"type": "split", "tag": "1983 · La suite", "photo": "photo2.jpg", "photo_credit": "Photo : Prénom Nom / Unsplash",
+     "title": "Nike ne l'a\n*pas oubliée.*",
+     "body": "Quand la marque a explosé, Nike lui a offert une *bague en or* et des *actions de l'entreprise*."},
+    {"type": "tips", "tag": "Conseil du jour", "title": "3 astuces pour *grandir*",
+     "tips": [{"t": "Sois régulier", "d": "3 à 4 posts par semaine."},
+              {"t": "Accroche en 3 secondes", "d": "Le début décide de tout."},
+              {"t": "Réponds à ta communauté", "d": "Chaque réponse compte."}]},
+    {"type": "cta", "tag": "La leçon", "title": "Un grand logo,\nc'est une *idée simple*\nrépétée longtemps.",
+     "bullets": ["Une forme *simple*, facile à retenir", "Un message clair : *le mouvement*", "La même identité, *utilisée partout*"],
+     "cta_title": "Ta marque mérite une identité forte.", "cta_text": "Logo, charte graphique, pubs : écris-nous en DM 📩"}
+  ]
+}
