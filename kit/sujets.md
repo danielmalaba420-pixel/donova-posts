@@ -14,6 +14,8 @@ Ne jamais reprendre une actu déjà publiée : noter chaque actu publiée ci-des
 
 Actus déjà publiées :
 
+- 2026-11-10 — WhatsApp Événements : invitations ouvertes aux personnes sans WhatsApp + espace Événements — blog officiel WhatsApp (5 nov. 2026)
+
 ## Midi (12h47) — « Marketing drôle · Kinshasa » : humour + mots en lingala
 
 Un post pour FAIRE SOURIRE, pas pour donner une leçon. Premier sujet non coché ci-dessous.

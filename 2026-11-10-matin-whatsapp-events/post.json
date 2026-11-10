@@ -1,0 +1,18 @@
+{
+  "slides": [
+    {"type": "cover", "tag": "Actu du digital", "photo": "photo1.jpg", "photo_credit": "Photo : Segun Osunyomi / Unsplash", "photo_pos": "center 30%",
+     "title": "WhatsApp : tes invitations\natteignent *même ceux\nqui n'ont pas l'app*", "swipe": "Ce qui change", "size": 72},
+    {"type": "text", "tag": "Annoncé le 5 novembre 2026", "big": "1 lien",
+     "title": "suffit pour inviter\n*n'importe qui* à un événement.",
+     "body": "Tu crées l'événement sur WhatsApp, tu ajoutes une *photo de couverture* et tu partages le lien. La personne voit les détails et *répond (RSVP) sans installer l'app*.\n\nSource : *blog officiel de WhatsApp (Meta)*"},
+    {"type": "split", "tag": "Les nouveautés", "photo": "photo2.jpg", "photo_credit": "Photo : Athul Baby / Unsplash",
+     "title": "Un espace\n*Événements*", "size": 64,
+     "body": "Un écran unique pour créer les invitations et suivre les réponses, avec *rappels personnalisés* et option *« +1 »*.\n\nTon numéro n'est *pas montré* aux invités que tu ne connais pas."},
+    {"type": "text", "tag": "Pour qui ? Depuis quand ?", "big": "Tout le monde",  "big_size": 120,
+     "title": "Déploiement *progressif*\nsur les prochaines semaines.",
+     "body": "WhatsApp annonce la mise à jour pour *tous les utilisateurs*, sans date précise par pays. Meta ne dit pas encore si l'app *WhatsApp Business* est concernée.\n\nÀ Kinshasa : un *lancement*, une *ouverture de boutique* ou un *atelier* pourront s'annoncer avec un simple lien."},
+    {"type": "cta", "tag": "Ce qu'il faut retenir", "title": "WhatsApp devient\nun outil *d'événements*.",
+     "bullets": ["Invitations ouvertes *même sans WhatsApp*", "Réponses, rappels et *+1* au même endroit", "Arrivée *dans les prochaines semaines*"],
+     "cta_title": "Un événement à annoncer ?", "cta_text": "Visuels, invitations, campagne : écris à Donova en DM 📩"}
+  ]
+}
