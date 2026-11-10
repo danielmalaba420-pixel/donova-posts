@@ -33,7 +33,7 @@ Quand il reste 5 sujets libres, en inventer 10 nouveaux dans le même esprit.
 ## Soir (19h) — « Le saviez-vous ? » : histoires vraies de marques, logos, internet
 
 - [x] 2026-11-09 — Le logo Nike a coûté 35 $
-- [ ] La flèche cachée dans le logo FedEx
+- [x] 2026-11-10 — La flèche cachée dans le logo FedEx
 - [ ] Le bouton « J'aime » de Facebook a failli s'appeler « Awesome »
 - [ ] Google s'appelait d'abord « BackRub »
 - [ ] Le premier logo d'Apple : Isaac Newton sous un arbre

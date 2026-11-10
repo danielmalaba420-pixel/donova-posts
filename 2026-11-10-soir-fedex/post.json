@@ -1,0 +1,50 @@
+{
+  "slides": [
+    {
+      "type": "cover",
+      "tag": "Le saviez-vous ?",
+      "photo": "photo1.jpg",
+      "photo_credit": "Photo : Bruna Santos / Unsplash",
+      "title": "Le logo *FedEx*\ncache une\n*flèche*",
+      "swipe": "Tu l'as déjà vue ?",
+      "size": 100,
+      "photo_pos": "center 50%"
+    },
+    {
+      "type": "text",
+      "tag": "1994 · Le changement",
+      "big": "1994",
+      "title": "Federal Express devient\n*FedEx*.",
+      "body": "L'entreprise veut un nouveau logo. Le designer *Lindon Leader*, de l'agence *Landor Associates* (San Francisco), s'en charge.",
+      "top": 360
+    },
+    {
+      "type": "split",
+      "tag": "Le détail caché",
+      "photo": "photo2.jpg",
+      "photo_credit": "Photo : Bhargav Panchal / Unsplash",
+      "title": "Regarde entre\nle *E* et le *x*.",
+      "body": "L'espace blanc entre ces deux lettres dessine une *flèche* qui pointe vers l'avant. Elle évoque la *vitesse* et la *précision*."
+    },
+    {
+      "type": "text",
+      "tag": "Le résultat",
+      "big": "40+",
+      "title": "prix de design\nremportés par ce logo.",
+      "body": "Un détail que beaucoup de gens ne voient *jamais*… mais qui rend le logo *inoubliable*.",
+      "top": 360
+    },
+    {
+      "type": "cta",
+      "tag": "La leçon",
+      "title": "Un grand logo,\nc'est souvent un\n*petit détail malin*.",
+      "bullets": [
+        "Une forme *simple*, lisible partout",
+        "Un détail qui donne *envie d'en parler*",
+        "Un message clair : *aller de l'avant*"
+      ],
+      "cta_title": "Ton logo mérite une idée forte.",
+      "cta_text": "Logo, identité visuelle, pubs : écris-nous en DM 📩"
+    }
+  ]
+}
