@@ -1,0 +1,31 @@
+{
+  "slides": [
+    {"type": "text", "tag": "Marketing drôle", "big": "23h47", "big_size": 200, "top": 300,
+     "title": "Un client t'écrit :\n*« C'est urgent »*",
+     "body": "Swipe pour lire la conversation 👀"},
+    {"type": "chat", "tag": "Mardi · 23h47", "who": "Client Urgent", "status": "en ligne",
+     "messages": [
+       {"from": "them", "text": "Bonsoir frère 🙏", "time": "23:47"},
+       {"from": "them", "text": "J'ai besoin d'un logo *kitoko* pour demain matin", "time": "23:47"},
+       {"from": "me", "text": "Bonsoir ! Avec plaisir. Tu as un brief ?", "time": "23:49"},
+       {"from": "them", "text": "Brief ? Le nom de l'entreprise je réfléchis encore 🤔", "time": "23:50"},
+       {"from": "me", "text": "Et le budget ?", "time": "23:50"},
+       {"from": "them", "text": "On en parle après, c'est pour la famille 🙏", "time": "23:51"}
+     ]},
+    {"type": "chat", "tag": "8 jours plus tard", "who": "Client Urgent", "status": "écrit…",
+     "messages": [
+       {"from": "them", "text": "Frère, le logo ??", "time": "09:12"},
+       {"from": "me", "text": "Il est prêt depuis 6 jours 😅", "time": "09:13"},
+       {"from": "them", "text": "Ah oui ? Mets-le un peu plus grand. Change les couleurs. Et le nom.", "time": "09:14"},
+       {"from": "me", "text": "Le nom ?!", "time": "09:14"},
+       {"from": "them", "text": "*Ya solo*, finalement c'est pas ça mon nom", "time": "09:15"}
+     ], "note": "Moralité : le *brief* d'abord, le logo ensuite."},
+    {"type": "versus", "tag": "La traduction", "title": "Ce qu'un client\nveut dire", 
+     "a": {"label": "Il dit", "text": "« On en parle après »"},
+     "b": {"label": "Il veut dire", "text": "« Je n'ai pas encore le budget »"},
+     "note": "Et toi, tu as déjà reçu cette phrase ? 😂"},
+    {"type": "cta", "tag": "Chez Donova", "title": "Le brief d'abord.\nLe *logo kitoko*\nensuite.",
+     "bullets": ["Un brief clair, *en 10 minutes*", "Un devis *avant* de commencer", "Un logo livré *à la date promise*"],
+     "cta_title": "Ton projet commence par un message.", "cta_text": "Écris-nous en DM, même à 23h47 😉"}
+  ]
+}

@@ -22,15 +22,16 @@ Un post pour FAIRE SOURIRE, pas pour donner une leçon. Premier sujet non coché
 Quand il reste 5 sujets libres, en inventer 10 nouveaux dans le même esprit.
 
 - [x] 2026-11-10 — Les 3 types de clients à Kinshasa (Inbox, Mokolo mosusu, Kitoko/budget moke)
-- [ ] Les phrases qu'un client dit à un graphiste (« Fais-le plus grand, mais plus petit »)
-- [ ] Ta page vs ta vraie vie : 3 « avant / après » de pages business
-- [ ] Les étapes d'une pub qui « va buzzer » (spoiler : 12 likes dont ta maman)
-- [ ] Les 5 stades d'un lancement de produit sur Instagram
-- [ ] Le community manager à Kinshasa : ce que les gens croient / ce que c'est vraiment
-- [ ] Les commentaires qu'on voit sous chaque annonce (« Prix ? », « Inbox », « Dispo ? »)
-- [ ] Marketing d'influence : quand ton cousin devient « ambassadeur de la marque »
-- [ ] L'algorithme d'Instagram expliqué à ta maman
-- [ ] Les excuses d'un client qui n'a pas payé le graphiste
+- [ ] Chat : le client « urgent » à 23h47 (brief ? budget ? « on en parle après ») — modèle dans kit/exemple-chat.json
+- [ ] « Ce qu'il dit / ce qu'il veut dire » : 5 phrases de clients traduites en vrai (versus)
+- [ ] Chat : le graphiste contre « fais-le plus grand, mais plus petit »
+- [ ] Une pub « qui va buzzer » heure par heure : 08h tout le monde est confiant… 23h les 12 likes dont ta maman
+- [ ] Horoscope du community manager : chaque signe a sa panne de réseau
+- [ ] Dictionnaire marketing selon Kinshasa : buzz, viral, reach, brief, « petite modification »
+- [ ] Chat : un client qui veut « une pub comme les grandes marques, mais gratuite » (aucune vraie marque citée)
+- [ ] Quiz : tu es quel commentaire sous une annonce ? (« Prix ? », « Inbox », « Dispo ? », « 🔥🔥🔥 »)
+- [ ] Les 5 stades du deuil quand l'upload s'arrête à 99 %
+- [ ] Marketing d'influence : quand ton cousin devient « ambassadeur de la marque » (chat + versus)
 
 ## Soir (19h) — « Le saviez-vous ? » : histoires vraies de marques, logos, internet
 

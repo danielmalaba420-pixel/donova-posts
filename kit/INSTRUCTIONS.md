@@ -27,7 +27,7 @@ centré sur la vie de Kinshasa et des marques d'ici, avec des mots de **lingala*
 
 - Tag de la slide 1 : « Marketing drôle ». Sujet = premier non coché de la rubrique Midi de
   `kit/sujets.md` (le cocher avec la date après publication).
-- Format : 3 à 5 slides sans photo obligatoire (slides `text` / `tips` / `cta` ; une photo
+- Format : 3 à 5 slides sans photo obligatoire (slides `text` / `chat` / `versus` / `cta` ; une photo
   Unsplash seulement si elle aide la blague). Slide 1 = `text` avec un gros mot/emoji (`big`)
   et un titre qui donne envie de swiper. Dernière slide = `cta` avec une chute drôle + appel à
   écrire à Donova (garder le ton léger).
@@ -46,11 +46,21 @@ centré sur la vie de Kinshasa et des marques d'ici, avec des mots de **lingala*
   de la situation, pas des personnes. Aucune tendance sûre ? Prendre le sujet de la liste.
 - Lingala : seulement des mots et expressions courants dont on est SÛR (ex. mbote, malamu,
   kitoko, mbongo, mayele, makambo, likambo te, kobanga te, ndeko, mokolo mosusu, mingi, moke,
-  biso, bino, ya solo). Toujours donner la traduction entre parenthèses la première fois.
-  En cas de doute sur un mot : ne pas l'utiliser. Mélange français + lingala comme à Kinshasa.
-- Légende : 1 phrase drôle + question qui pousse à commenter (« Et toi, tu es quel type de
+  biso, bino, ya solo). **NE JAMAIS traduire** les mots en lingala (Daniel : pas de
+  parenthèses d'explication, le public de Kinshasa comprend). Choisis donc des mots dont le sens
+  se devine avec la phrase autour. En cas de doute sur un mot : ne pas l'utiliser. Mélange
+  français + lingala comme on parle à Kinshasa.
+- Légende : 1 phrase drôle (jamais de traduction du lingala) + question qui pousse à commenter (« Et toi, tu es quel type de
   client ? ») + invitation à taguer un ami + hashtags (dont #Donova #Kinshasa #RDC #Lingala
   #HumourCongolais #MarketingDrole).
+- **Il faut que ce soit VRAIMENT créatif** (exigence de Daniel). Pas de liste plate ni de conseil
+  déguisé. Chaque post a UN mécanisme comique clair et une chute :
+  fausse conversation de messagerie (slide `chat`, 5 messages max par slide, sans logo d'une vraie
+  app), « ce qu'il dit / ce qu'il veut dire » (slide `versus`), chronologie qui dégénère
+  (« 23h47 → 8 jours plus tard »), exagération, retournement de situation, parodie de pub,
+  dictionnaire ou horoscope absurde, quiz « tu es quel type de… ». Slide 1 = accroche qui donne
+  envie de swiper ; chute à l'avant-dernière slide ; dernière slide `cta` avec une dernière blague.
+  Exemple complet : `kit/exemple-chat.json`. Relis ton texte : si ça ne fait pas sourire, recommence.
 - Pas de fait à vérifier ici, mais aucune statistique inventée.
 
 ## Étapes

@@ -12,6 +12,8 @@ Types de slides :
   split   : photo à droite + titre + texte à gauche          (photo, tag, title, body, photo_credit)
   tips    : liste numérotée de conseils (3 à 5)               (tag, title, tips:[{t,d}])
   cta     : leçon + 3 puces + encadré rouge d'appel à l'action (tag, title, bullets, cta_title, cta_text)
+  chat    : fausse conversation (bulles) pour l'humour         (tag, who, status, messages:[{from:'them'|'me', text, time}], note)
+  versus  : deux cartes « ce qu'il dit / ce qu'il veut dire »    (tag, title, a:{label,text}, b:{label,text}, note)
 Dans title/body, entourer un mot de *astérisques* le met en rouge (title) ou en gras (body).
 """
 import json, re, sys, html, pathlib
@@ -39,6 +41,13 @@ h1 em{font-style:normal;color:#e10600}
 .tip{display:flex;gap:26px;align-items:flex-start;background:#17171b;border:1px solid #26262c;border-radius:18px;padding:22px 28px}
 .tip .n{font-size:44px;font-weight:800;color:#e10600;min-width:58px;line-height:1}
 .tip b{display:block;font-size:30px;font-weight:700;line-height:1.15}
+.bub{max-width:760px;padding:20px 26px;border-radius:26px;font-family:'Inter';font-size:32px;line-height:1.35;position:relative}
+.bub.them{background:#1f1f25;color:#fff;border-bottom-left-radius:6px;align-self:flex-start}
+.bub.me{background:#e10600;color:#fff;border-bottom-right-radius:6px;align-self:flex-end}
+.bub small{display:block;font-size:19px;opacity:.6;margin-top:6px;text-align:right}
+.vcard{border-radius:24px;padding:36px 40px}
+.vcard .lab{font-weight:700;font-size:22px;letter-spacing:3px;text-transform:uppercase;margin-bottom:14px}
+.vcard .txt{font-weight:800;font-size:50px;line-height:1.12;letter-spacing:-1px}
 .tip p{font-family:'Inter';font-size:22px;color:#a9a9b2;margin-top:6px;line-height:1.35}
 """
 
@@ -102,6 +111,29 @@ def slide_html(s, i, n, base):
                f'<div style="margin-top:60px;background:#e10600;border-radius:18px;padding:30px 36px">'
                f'<div style="font-size:34px;font-weight:700">{fr(s.get("cta_title","Ta marque mérite d’être vue."))}</div>'
                f'<div style="font-family:Inter;font-size:26px;margin-top:8px">{fr(s.get("cta_text","Logo, design, pubs, réseaux sociaux : écris-nous en DM 📩"))}</div></div></div>')
+    elif k == "chat":
+        av = (s.get("who", "Client") or "C")[0].upper()
+        msgs = "".join(
+            f'<div class="bub {"me" if m.get("from") == "me" else "them"}">{body(m["text"])}'
+            + (f'<small>{fr(m["time"])}</small>' if m.get("time") else "") + '</div>'
+            for m in s["messages"])
+        note = (f'<div class="p" style="margin-top:34px;font-size:30px;text-align:center">{body(s["note"])}</div>' if s.get("note") else "")
+        out = (f'<div class="glowTR"></div><div style="position:absolute;top:84px;left:84px">{tag}</div>{cnt}'
+               f'<div style="position:absolute;left:84px;right:84px;top:190px">'
+               f'<div style="display:flex;align-items:center;gap:20px;background:#17171b;border:1px solid #26262c;border-radius:22px;padding:18px 26px">'
+               f'<div style="width:70px;height:70px;border-radius:50%;background:#e10600;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:34px">{html.escape(av)}</div>'
+               f'<div><div style="font-weight:700;font-size:32px">{fr(s.get("who","Client"))}</div>'
+               f'<div style="font-family:Inter;font-size:22px;color:#7ee081">● {fr(s.get("status","en ligne"))}</div></div></div>'
+               f'<div style="margin-top:34px;display:flex;flex-direction:column;gap:18px">{msgs}</div>{note}</div>')
+    elif k == "versus":
+        a, b = s["a"], s["b"]
+        note = (f'<div class="p" style="margin-top:36px;font-size:30px;text-align:center">{body(s["note"])}</div>' if s.get("note") else "")
+        out = (f'<div class="glowTR"></div><div style="position:absolute;top:84px;left:84px">{tag}</div>{cnt}'
+               f'<div style="position:absolute;left:84px;right:84px;top:{s.get("top",200)}px">'
+               + (f'<h1 style="font-size:{s.get("size",56)}px;margin-bottom:40px">{title(s["title"])}</h1>' if s.get("title") else "")
+               + f'<div class="vcard" style="background:#17171b;border:1px solid #2a2a31"><div class="lab" style="color:#a9a9b2">{fr(a["label"])}</div><div class="txt">{body(a["text"])}</div></div>'
+               f'<div style="text-align:center;font-weight:800;font-size:40px;color:#e10600;margin:22px 0">VS</div>'
+               f'<div class="vcard" style="background:#e10600"><div class="lab" style="color:#ffd3d0">{fr(b["label"])}</div><div class="txt">{body(b["text"])}</div></div>{note}</div>')
     else:
         raise SystemExit(f"type de slide inconnu : {k}")
     return f'<!doctype html><html><head><meta charset="utf-8"><style>{CSS}</style></head><body>{out}{foot()}</body></html>'
