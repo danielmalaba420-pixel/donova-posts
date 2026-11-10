@@ -2,7 +2,7 @@
 
 Donova est l'agence de communication digitale de Daniel Malaba à Kinshasa.
 Tout est en français. Le nom s'écrit toujours **Donova** (jamais « Danova »).
-Daniel a demandé que les posts du matin et du soir soient publiés DIRECTEMENT,
+Daniel a demandé que les posts du matin, du midi et du soir soient publiés DIRECTEMENT,
 sans validation préalable.
 
 ## Règles fixes
@@ -20,6 +20,30 @@ sans validation préalable.
   Pas la même photo dans deux posts.
 - Ton : simple, direct, accrocheur, tutoiement.
 
+## Rubrique Midi (12h47) — « Marketing drôle · Kinshasa »
+
+Demandé par Daniel : « au 21e siècle le marketing doit être plus drôle ». Un post par jour,
+centré sur la vie de Kinshasa et des marques d'ici, avec des mots de **lingala**.
+
+- Tag de la slide 1 : « Marketing drôle ». Sujet = premier non coché de la rubrique Midi de
+  `kit/sujets.md` (le cocher avec la date après publication).
+- Format : 3 à 5 slides sans photo obligatoire (slides `text` / `tips` / `cta` ; une photo
+  Unsplash seulement si elle aide la blague). Slide 1 = `text` avec un gros mot/emoji (`big`)
+  et un titre qui donne envie de swiper. Dernière slide = `cta` avec une chute drôle + appel à
+  écrire à Donova (garder le ton léger).
+- Humour : situations du quotidien (clients, prix « en inbox », pannes de réseau, likes de la
+  famille, pubs « qui vont buzzer »). On se moque de **situations**, jamais de personnes.
+  INTERDIT : politique, tribalisme/ethnies, religion, handicap, personnes réelles, marques
+  réelles tournées en ridicule.
+- Lingala : seulement des mots et expressions courants dont on est SÛR (ex. mbote, malamu,
+  kitoko, mbongo, mayele, makambo, likambo te, kobanga te, ndeko, mokolo mosusu, mingi, moke,
+  biso, bino, ya solo). Toujours donner la traduction entre parenthèses la première fois.
+  En cas de doute sur un mot : ne pas l'utiliser. Mélange français + lingala comme à Kinshasa.
+- Légende : 1 phrase drôle + question qui pousse à commenter (« Et toi, tu es quel type de
+  client ? ») + invitation à taguer un ami + hashtags (dont #Donova #Kinshasa #RDC #Lingala
+  #HumourCongolais #MarketingDrole).
+- Pas de fait à vérifier ici, mais aucune statistique inventée.
+
 ## Étapes
 
 1. Ouvrir `kit/sujets.md`.
@@ -29,6 +53,7 @@ sans validation préalable.
      Slide 1 = tag « Actu du digital » + titre accrocheur ; slides suivantes = les faits ;
      dernière slide `cta` = « Ce qu'il faut retenir » + appel à écrire à Donova.
      Mentionner la source (nom du média ou de l'entreprise) sur une slide.
+   - Midi = « Marketing drôle · Kinshasa » : voir la rubrique Midi ci-dessus.
    - Soir = « Le saviez-vous ? » : premier sujet non coché de la rubrique Soir.
 2. Écrire le contenu, chercher 1 à 2 photos Unsplash et les télécharger dans le
    dossier du post : `AAAA-MM-JJ-matin-<mot-cle>/` ou `AAAA-MM-JJ-soir-<mot-cle>/`.
@@ -39,6 +64,8 @@ sans validation préalable.
 5. Dans `kit/sujets.md` : cocher le sujet du soir avec la date, ou ajouter l'actu du matin
    à la liste « Actus déjà publiées » (`- AAAA-MM-JJ — titre — source`).
 6. Commit + push sur `main` (supprimer les photos sources de plus de 8 Mo s'il y en a).
+   Si le push est refusé (un autre post vient d'être poussé) : `git pull --rebase` puis
+   repousser — ne jamais abandonner pour ça.
 7. Vérifier que chaque image répond 200 en `image/jpeg` à
    `https://raw.githubusercontent.com/danielmalaba420-pixel/donova-posts/main/<dossier>/slide-N.jpg`
    (attendre 30 s et réessayer si besoin).
