@@ -35,7 +35,8 @@ centré sur la vie de Kinshasa et des marques d'ici, avec des mots de **lingala*
   famille, pubs « qui vont buzzer »). On se moque de **situations**, jamais de personnes.
   INTERDIT : politique, tribalisme/ethnies, religion, handicap, personnes réelles, marques
   réelles tournées en ridicule.
-- **Tendances de Kinshasa** (demandé par Daniel) : avant de choisir le sujet, chercher sur le web
+- **Tendances de Kinshasa** (demandé par Daniel) : d'abord lire `kit/tendances.md` (liste « À traiter »
+  alimentée par Daniel). Si elle est vide, chercher sur le web
   ce qui buzze à Kinshasa / en RDC (phénomènes viraux, mèmes, expressions du moment). Si une
   tendance légère s'y prête, elle passe AVANT la liste de `sujets.md` (le sujet de la liste reste
   non coché). On s'inspire de la tendance ; on ne reproduit JAMAIS la photo ou la vidéo d'une
