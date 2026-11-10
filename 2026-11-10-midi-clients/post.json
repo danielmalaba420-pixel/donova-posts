@@ -1,0 +1,19 @@
+{
+  "slides": [
+    {"type": "text", "tag": "Marketing drôle", "big": "😂", "big_size": 210, "top": 300,
+     "title": "Les *3 types* de clients\nà Kinshasa",
+     "body": "Tu en connais forcément *un*. Swipe pour les reconnaître 👉"},
+    {"type": "text", "tag": "Client n°1", "big": "« Prix ? »", "big_size": 130, "top": 330,
+     "title": "Le client *Inbox*",
+     "body": "Il commente « Prix ? » sous ta pub. Tu réponds : « *Inbox* ». Il répond… « *Prix ?* » 😅\n*Ya solo* (c'est vrai), on a tous vécu ça."},
+    {"type": "text", "tag": "Client n°2", "big": "Mokolo\nmosusu", "big_size": 150, "top": 270,
+     "title": "Le client « un autre jour »",
+     "body": "Il adore ton travail. Il veut tout. Il dit : « *Mokolo mosusu* » (un autre jour). Il revient 3 mois plus tard pour un devis *urgent… pour demain*."},
+    {"type": "text", "tag": "Client n°3", "big": "Kitoko", "big_size": 190, "top": 330,
+     "title": "Le client *budget moke*",
+     "body": "Un logo *kitoko* (beau), un site *kitoko*, des pubs *kitoko*… avec un budget *moke* (petit). Ambitions *mingi* (énormes), portefeuille *moke* 😭"},
+    {"type": "cta", "tag": "Le client idéal", "title": "Et le *client idéal* ?",
+     "bullets": ["Il sait *ce qu'il veut*", "Il respecte le *travail* et les délais", "Il paie *à temps* 🙏"],
+     "cta_title": "Kobanga te (n'aie pas peur) !", "cta_text": "On parle clair dès le départ. Écris-nous en DM 📩"}
+  ]
+}

@@ -19,7 +19,7 @@ Actus déjà publiées :
 Un post pour FAIRE SOURIRE, pas pour donner une leçon. Premier sujet non coché ci-dessous.
 Quand il reste 5 sujets libres, en inventer 10 nouveaux dans le même esprit.
 
-- [ ] Les 4 types de clients à Kinshasa (« prix en inbox », « mokolo mosusu »…)
+- [x] 2026-11-10 — Les 3 types de clients à Kinshasa (Inbox, Mokolo mosusu, Kitoko/budget moke)
 - [ ] Les phrases qu'un client dit à un graphiste (« Fais-le plus grand, mais plus petit »)
 - [ ] Ta page vs ta vraie vie : 3 « avant / après » de pages business
 - [ ] Les étapes d'une pub qui « va buzzer » (spoiler : 12 likes dont ta maman)

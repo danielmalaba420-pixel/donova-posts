@@ -35,6 +35,14 @@ centré sur la vie de Kinshasa et des marques d'ici, avec des mots de **lingala*
   famille, pubs « qui vont buzzer »). On se moque de **situations**, jamais de personnes.
   INTERDIT : politique, tribalisme/ethnies, religion, handicap, personnes réelles, marques
   réelles tournées en ridicule.
+- **Tendances de Kinshasa** (demandé par Daniel) : avant de choisir le sujet, chercher sur le web
+  ce qui buzze à Kinshasa / en RDC (phénomènes viraux, mèmes, expressions du moment). Si une
+  tendance légère s'y prête, elle passe AVANT la liste de `sujets.md` (le sujet de la liste reste
+  non coché). On s'inspire de la tendance ; on ne reproduit JAMAIS la photo ou la vidéo d'une
+  personne réelle, ni une caricature reconnaissable d'un particulier filmé dans un incident.
+  Les dessins sont des personnages ORIGINAUX inventés (outil d'image de Canva ou ElevenLabs si
+  disponible, sinon slides texte). Pas d'accusation (police, corruption, politique) : on rit
+  de la situation, pas des personnes. Aucune tendance sûre ? Prendre le sujet de la liste.
 - Lingala : seulement des mots et expressions courants dont on est SÛR (ex. mbote, malamu,
   kitoko, mbongo, mayele, makambo, likambo te, kobanga te, ndeko, mokolo mosusu, mingi, moke,
   biso, bino, ya solo). Toujours donner la traduction entre parenthèses la première fois.
