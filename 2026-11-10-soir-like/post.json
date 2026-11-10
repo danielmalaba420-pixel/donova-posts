@@ -1,0 +1,18 @@
+{
+  "slides": [
+    {"type": "cover", "tag": "Le saviez-vous ?", "photo": "photo1.jpg", "photo_credit": "Photo : Berke Citak / Unsplash",
+     "title": "Le bouton *J'aime*\na failli s'appeler\n*« Awesome »*", "swipe": "L'histoire complète", "size": 92, "photo_pos": "center 45%"},
+    {"type": "text", "tag": "Juillet 2007 · L'idée", "big": "2007",
+     "title": "Chez Facebook, une équipe\nimagine un bouton pour\nréagir en *un seul clic*.",
+     "body": "Son nom de code : *Props*. Le nom prévu : le bouton *« Awesome »*, c'est-à-dire « génial ».", "top": 330},
+    {"type": "text", "tag": "Novembre 2007 · Le blocage", "big": "Pas convaincu",  "big_size": 120,
+     "title": "Mark Zuckerberg\nhésite.",
+     "body": "Sa peur : que les gens cliquent au lieu de *commenter* ou de *partager*. Le projet reste bloqué *plus d'un an*.", "top": 330},
+    {"type": "split", "tag": "9 février 2009 · Le lancement", "photo": "photo2.jpg", "photo_credit": "Photo : Luke Peterson / Unsplash",
+     "title": "Finalement,\nce sera\n*« J'aime »*.",
+     "body": "Un mot *simple*, que tout le monde comprend. Le petit pouce levé est né."},
+    {"type": "cta", "tag": "La leçon", "title": "Le meilleur nom,\nc'est celui que\n*tout le monde comprend*.",
+     "bullets": ["Un mot *court* et du quotidien", "Une action *évidente* en un clic", "Un nom qui *parle à tous*, pas seulement à l'équipe"],
+     "cta_title": "Ta marque mérite un message clair.", "cta_text": "Nom, logo, slogan, pubs : écris-nous en DM 📩"}
+  ]
+}
