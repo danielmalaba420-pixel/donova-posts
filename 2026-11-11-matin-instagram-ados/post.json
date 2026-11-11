@@ -1,0 +1,18 @@
+{
+  "slides": [
+    {"type": "cover", "tag": "Actu du digital", "photo": "photo1.jpg", "photo_credit": "Photo : Lesli Whitecotton / Unsplash", "photo_pos": "center 35%",
+     "title": "Instagram : l'IA devine\n*l'âge des ados*\ndans le monde entier", "swipe": "Ce qui change", "size": 72},
+    {"type": "text", "tag": "Annoncé le 9 novembre 2026", "big": "13–17 ans",  "big_size": 130,
+     "title": "Instagram repère les ados\n*même s'ils ont menti*\nsur leur âge.",
+     "body": "Meta utilise l'IA pour trouver les comptes qui semblent appartenir à des *adolescents*, même avec une date de naissance d'adulte. Ces comptes passent automatiquement en *« Compte Ado »*.\n\nSource : *Meta*, repris par *Al Jazeera*"},
+    {"type": "split", "tag": "Un « Compte Ado », c'est quoi ?", "photo": "photo2.jpg", "photo_credit": "Photo : Darya Ezerskaya / Unsplash",
+     "title": "Des réglages\n*plus stricts*", "size": 64,
+     "body": "*Qui peut le contacter* : limité.\n\n*Ce qu'il voit* : contenus filtrés.\n\n*Son temps* : rappel au bout de 60 minutes, notifications coupées la nuit."},
+    {"type": "text", "tag": "Pour qui ? Depuis quand ?", "big": "Monde entier", "big_size": 120,
+     "title": "Instagram d'abord,\n*Threads plus tard* cette année.",
+     "body": "Testée depuis avril 2025 (États-Unis, Royaume-Uni, Canada, Australie), la technologie s'étend maintenant à *tous les pays*. Facebook suit aussi.\n\nÀ Kinshasa : si une marque parle aux *jeunes* (élèves, mode, musique), une partie de son public peut passer en *Compte Ado*. Meta n'a rien précisé sur la *publicité*."},
+    {"type": "cta", "tag": "Ce qu'il faut retenir", "title": "Sur Instagram,\nl'âge n'est plus\n*juste une date*.",
+     "bullets": ["L'IA repère les *ados* qui se disent adultes", "Contacts, contenus et temps *encadrés*", "Déploiement *mondial* en cours"],
+     "cta_title": "Ta marque parle aux jeunes ?", "cta_text": "Stratégie, contenus, campagnes : écris à Donova en DM 📩"}
+  ]
+}
