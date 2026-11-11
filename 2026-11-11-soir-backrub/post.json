@@ -1,0 +1,52 @@
+{
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "Le saviez-vous ?",
+   "photo": "photo1.jpg",
+   "photo_credit": "Photo : Valentin Lacoste / Unsplash",
+   "title": "Avant d'être *Google*,\nil s'appelait\n*« BackRub »*",
+   "swipe": "L'histoire complète",
+   "size": 92,
+   "photo_pos": "center 90%"
+  },
+  {
+   "type": "text",
+   "tag": "1996 · Les débuts",
+   "big": "BackRub",
+   "big_size": 130,
+   "title": "Deux étudiants de *Stanford*,\nLarry Page et Sergey Brin,\ncréent un moteur de recherche.",
+   "body": "Son nom : *BackRub*. Pourquoi ? Il analyse les *liens retour* (« backlinks ») pour savoir quels sites sont les plus importants.",
+   "top": 330
+  },
+  {
+   "type": "text",
+   "tag": "Septembre 1997 · Le nouveau nom",
+   "big": "googol",
+   "big_size": 130,
+   "title": "Il faut un nom\nqui dit *« immense »*.",
+   "body": "L'idée retenue : *googol*, le nombre 1 suivi de *100 zéros*. Une façon de dire : on va organiser une quantité énorme d'informations.",
+   "top": 330
+  },
+  {
+   "type": "split",
+   "tag": "15 septembre 1997 · La faute",
+   "photo": "photo2.jpg",
+   "photo_credit": "Photo : Kelly Sikkema / Unsplash",
+   "title": "En cherchant le domaine,\non tape *« google »*\nau lieu de « googol ».",
+   "body": "Le nom est *libre*. Larry Page enregistre *google.com* le jour même. La faute de frappe devient une marque mondiale."
+  },
+  {
+   "type": "cta",
+   "tag": "La leçon",
+   "title": "Un bon nom raconte\n*ta promesse*,\npas ta technique.",
+   "bullets": [
+    "*BackRub* parlait de la technique",
+    "*Google* parle de l'ambition : l'immensité",
+    "Un nom *court*, facile à dire et à retenir"
+   ],
+   "cta_title": "Ta marque mérite un nom qui marque.",
+   "cta_text": "Nom, logo, slogan, pubs : écris-nous en DM 📩"
+  }
+ ]
+}
