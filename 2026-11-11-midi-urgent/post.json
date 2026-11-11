@@ -1,0 +1,30 @@
+{
+  "slides": [
+    {"type": "text", "tag": "Marketing drôle", "big": "23h47", "big_size": 200, "top": 300,
+     "title": "Ton client écrit :\n*« URGENT 🚨 »*",
+     "body": "Swipe : la suite va te rappeler quelqu'un 😂"},
+    {"type": "chat", "tag": "Mardi · 23h47", "who": "Client Urgent 🚨", "status": "en ligne",
+     "messages": [
+       {"from": "them", "text": "Frère c'est URGENT 🚨🚨🚨", "time": "23:47"},
+       {"from": "them", "text": "Une affiche pour mon salon, ouverture demain 7h", "time": "23:47"},
+       {"from": "me", "text": "Compris ! Tu as le nom, le logo, les photos ?", "time": "23:48"},
+       {"from": "them", "text": "Le nom je cherche encore 😅 Fais d'abord, on voit après", "time": "23:49"},
+       {"from": "me", "text": "Je te livre à 6h30 🫡", "time": "23:50"}
+     ]},
+    {"type": "chat", "tag": "Jeudi · 15h12", "who": "Client Urgent 🚨", "status": "écrit…",
+     "messages": [
+       {"from": "me", "text": "Affiche livrée mercredi à 6h30 ✅", "time": "15:12"},
+       {"from": "them", "text": "Ah oui ? J'ai pas vu, je dormais 😴", "time": "15:14"},
+       {"from": "them", "text": "Au fait, l'ouverture est reportée à décembre", "time": "15:14"},
+       {"from": "me", "text": "Donc l'urgence…?", "time": "15:15"},
+       {"from": "them", "text": "*Likambo te*, l'urgence reste urgente 🚨", "time": "15:15"}
+     ], "note": "Moralité : l'urgent du client dort *très bien*. Toi non."},
+    {"type": "versus", "tag": "La traduction", "title": "Le dictionnaire\ndu client",
+     "a": {"label": "Il dit", "text": "« C'est urgent »"},
+     "b": {"label": "Il veut dire", "text": "« J'y pense depuis 3 semaines, mais toi tu paniques ce soir »"},
+     "note": "Tague le client qui t'a fait ça 😂"},
+    {"type": "cta", "tag": "Chez Donova", "title": "L'urgent a besoin\nd'un *brief*,\npas d'une *panique*.",
+     "bullets": ["Un brief clair, *en 10 minutes*", "Un devis *avant* de commencer", "Une livraison *à la date promise*"],
+     "cta_title": "Ton projet commence par un message.", "cta_text": "Écris-nous en DM, même à 23h47 : on lit tout, on répond à 8h, kobanga te 😉"}
+  ]
+}

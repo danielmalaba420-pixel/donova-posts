@@ -23,7 +23,7 @@ Un post pour FAIRE SOURIRE, pas pour donner une leçon. Premier sujet non coché
 Quand il reste 5 sujets libres, en inventer 10 nouveaux dans le même esprit.
 
 - [x] 2026-11-10 — Les 3 types de clients à Kinshasa (Inbox, Mokolo mosusu, Kitoko/budget moke)
-- [ ] Chat : le client « urgent » à 23h47 (brief ? budget ? « on en parle après ») — modèle dans kit/exemple-chat.json
+- [x] 2026-11-11 — Chat : le client « urgent » à 23h47 (brief ? budget ? « on en parle après ») — modèle dans kit/exemple-chat.json
 - [ ] « Ce qu'il dit / ce qu'il veut dire » : 5 phrases de clients traduites en vrai (versus)
 - [ ] Chat : le graphiste contre « fais-le plus grand, mais plus petit »
 - [ ] Une pub « qui va buzzer » heure par heure : 08h tout le monde est confiant… 23h les 12 likes dont ta maman
