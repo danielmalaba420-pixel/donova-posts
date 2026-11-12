@@ -41,7 +41,7 @@ Quand il reste 5 sujets libres, en inventer 10 nouveaux dans le même esprit.
 - [x] 2026-11-10 — La flèche cachée dans le logo FedEx
 - [x] 2026-11-10 — Le bouton « J'aime » de Facebook a failli s'appeler « Awesome »
 - [x] 2026-11-11 — Google s'appelait d'abord « BackRub »
-- [ ] Le premier logo d'Apple : Isaac Newton sous un arbre
+- [x] 2026-11-12 — Le premier logo d'Apple : Isaac Newton sous un arbre
 - [ ] Pourquoi Facebook est bleu
 - [ ] Le premier SMS de l'histoire disait « Merry Christmas »
 - [ ] D'où vient le nom WhatsApp

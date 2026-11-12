@@ -1,0 +1,51 @@
+{
+ "slides": [
+  {
+   "type": "cover",
+   "tag": "Le saviez-vous ?",
+   "photo": "photo1.jpg",
+   "photo_credit": "Photo : Marek Studzinski / Unsplash",
+   "title": "Le premier logo\nd'*Apple* n'était\n*pas une pomme*",
+   "swipe": "L'histoire complète",
+   "size": 92
+  },
+  {
+   "type": "text",
+   "tag": "1976 · Le premier logo",
+   "big": "Newton",
+   "big_size": 130,
+   "title": "Un savant assis\n*sous un arbre*,\nune pomme au-dessus de lui.",
+   "body": "Dessiné par *Ronald Wayne*, le 3e cofondateur d'Apple. Style *gravure ancienne*, avec une citation du poète *William Wordsworth* sur Isaac Newton autour du dessin.",
+   "top": 330
+  },
+  {
+   "type": "text",
+   "tag": "1976 · Le détail fou",
+   "big": "800 $",
+   "big_size": 130,
+   "title": "C'est le prix auquel\nRonald Wayne a cédé\n*ses 10 % d'Apple*.",
+   "body": "Il a quitté l'aventure *juste après* la création de l'entreprise. Son logo, lui, n'a pas tenu *un an*.",
+   "top": 330
+  },
+  {
+   "type": "split",
+   "tag": "1977 · Le nouveau logo",
+   "photo": "photo2.jpg",
+   "photo_credit": "Photo : Washington Oliveira / Unsplash",
+   "title": "Place à la *pomme\ncroquée* multicolore.",
+   "body": "Créée par *Rob Janoff*, jeune graphiste de l'agence *Regis McKenna*, pour la sortie de l'*Apple II*. Elle restera arc-en-ciel jusqu'en *1999*."
+  },
+  {
+   "type": "cta",
+   "tag": "La leçon",
+   "title": "Un bon logo se\nreconnaît *en une\nseconde*.",
+   "bullets": [
+    "Un dessin trop *détaillé* se perd en petit",
+    "Une forme *simple* se retient partout",
+    "Ton logo doit marcher *sur un écran de téléphone*"
+   ],
+   "cta_title": "Ton logo passe-t-il le test ?",
+   "cta_text": "Logo, charte graphique, pubs : écris-nous en DM 📩"
+  }
+ ]
+}
