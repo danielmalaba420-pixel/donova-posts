@@ -1,0 +1,24 @@
+{
+  "slides": [
+    {"type": "text", "tag": "Marketing drôle", "big": "5 phrases", "big_size": 150, "top": 300,
+     "title": "Le client parle.\n*Donova traduit.*",
+     "body": "Le dictionnaire officiel client ↔ vérité, à Kinshasa. Swipe 👀"},
+    {"type": "versus", "tag": "Traduction n°1", "title": "Le prix,\nselon le client",
+     "a": {"label": "Il dit", "text": "« Fais-moi un prix, ndeko »"},
+     "b": {"label": "Il veut dire", "text": "« Fais-moi un prix… en dessous de zéro »"},
+     "note": "Le budget *moke*, mais l'ambition énorme."},
+    {"type": "versus", "tag": "Traduction n°2", "title": "La modification,\nselon le client",
+     "a": {"label": "Il dit", "text": "« Juste une petite modification »"},
+     "b": {"label": "Il veut dire", "text": "« Refais tout. Les couleurs, le logo… et le nom »"},
+     "note": "Petite… comme dans « 4 heures de travail » 😅"},
+    {"type": "tips", "tag": "Bonus express", "title": "Les 3 qui\nfont le plus mal",
+     "tips": [
+       {"t": "« Je te paie demain »", "d": "Demain, c'est un concept. Pas une date."},
+       {"t": "« Fais comme tu veux, tu es le pro »", "d": "Tu auras tort dans 20 minutes."},
+       {"t": "« Je regarde ça et je reviens »", "d": "Mokolo mosusu. Peut-être jamais."}
+     ]},
+    {"type": "cta", "tag": "Chez Donova", "title": "Nous, on parle\n*clair* dès\nle début.",
+     "bullets": ["Un brief *écrit*, pas « dans ma tête »", "Un devis *avant* le premier dessin", "Zéro traduction nécessaire 😉"],
+     "cta_title": "Écris-nous en DM.", "cta_text": "On répond en français. Et en lingala si tu insistes 😄"}
+  ]
+}
