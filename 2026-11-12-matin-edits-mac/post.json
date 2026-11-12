@@ -1,0 +1,18 @@
+{
+  "slides": [
+    {"type": "cover", "tag": "Actu du digital", "photo": "photo1.jpg", "photo_credit": "Photo : Peter Stumpf / Unsplash", "photo_pos": "center 45%",
+     "title": "Edits, le montage vidéo\nd'Instagram, arrive\n*sur ordinateur*", "swipe": "Ce qui change", "size": 72},
+    {"type": "text", "tag": "Annoncé le 5 novembre 2026", "big": "Gratuit", "big_size": 150,
+     "title": "Edits, l'appli de montage\nd'Instagram, a maintenant\n*sa version Mac*.",
+     "body": "Jusqu'ici, Edits n'existait que sur *téléphone*. Lancée en 2025 face à CapCut, l'appli compte déjà *plus de 50 millions d'utilisateurs*.\n\nSource : *Instagram*, repris par *The Next Web* et *Social Media Today*"},
+    {"type": "split", "tag": "Ce qu'on y trouve", "photo": "photo2.jpg", "photo_credit": "Photo : Afffect / Unsplash",
+     "title": "Un vrai\n*banc de montage*", "size": 64,
+     "body": "*Plusieurs pistes* pour la vidéo et le son.\n\n*Export 4K* sans filigrane, en vertical ou horizontal.\n\n*Sous-titres auto* illimités et musiques sous licence.\n\n*Publication directe* sur Instagram."},
+    {"type": "text", "tag": "Pour qui ? Depuis quand ?", "big": "Mac M1 et +", "big_size": 120,
+     "title": "Disponible depuis\nle 5 novembre,\n*pas encore sur Windows*.",
+     "body": "Il faut un Mac avec une *puce Apple* (M1 ou plus récent) et un *compte Instagram*. Les Mac Intel ne sont pas pris en charge. Instagram prévoit des *mises à jour chaque semaine*.\n\nÀ Kinshasa : les marques et créateurs qui montent sur Mac ont désormais un outil *gratuit* pensé pour les Reels, sans filigrane."},
+    {"type": "cta", "tag": "Ce qu'il faut retenir", "title": "Le montage Instagram\npasse du téléphone\nà *l'ordinateur*.",
+     "bullets": ["Edits sur Mac : *gratuit*, export *4K*", "Pistes multiples, sous-titres *automatiques*", "Mac à puce Apple seulement, *pas de Windows*"],
+     "cta_title": "Besoin de Reels pour ta marque ?", "cta_text": "Tournage, montage, campagnes : écris à Donova en DM 📩"}
+  ]
+}

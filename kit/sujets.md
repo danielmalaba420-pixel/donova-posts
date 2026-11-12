@@ -16,6 +16,7 @@ Actus déjà publiées :
 
 - 2026-11-10 — WhatsApp Événements : invitations ouvertes aux personnes sans WhatsApp + espace Événements — blog officiel WhatsApp (5 nov. 2026)
 - 2026-11-11 — Instagram : détection de l'âge des ados par IA étendue au monde entier (Comptes Ado) — Meta Newsroom / Al Jazeera (9 nov. 2026)
+- 2026-11-12 — Edits (montage vidéo d'Instagram) disponible sur Mac : gratuit, export 4K, multipiste — Instagram / The Next Web / Social Media Today (5 nov. 2026)
 
 ## Midi (12h47) — « Marketing drôle · Kinshasa » : humour + mots en lingala
 
