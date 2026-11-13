@@ -1,0 +1,33 @@
+{
+  "slides": [
+    {"type": "text", "tag": "Marketing drôle", "big": "🤯", "big_size": 200, "top": 300,
+     "title": "Le client demande :\n*« Plus grand…\nmais plus petit »*",
+     "body": "Le graphiste a lu le message trois fois. Swipe 👀"},
+    {"type": "chat", "tag": "Lundi · 10h02", "who": "Client Kitoko", "status": "en ligne",
+     "messages": [
+       {"from": "them", "text": "Ndeko, le logo est *kitoko* 🔥 Juste une petite chose", "time": "10:02"},
+       {"from": "them", "text": "Fais-le plus grand", "time": "10:02"},
+       {"from": "me", "text": "Plus grand, noté 👍", "time": "10:04"},
+       {"from": "them", "text": "Mais pas trop grand. Plus petit.", "time": "10:05"},
+       {"from": "me", "text": "Plus grand ou plus petit ?", "time": "10:05"}
+     ]},
+    {"type": "chat", "tag": "10h06 · le graphiste transpire", "who": "Client Kitoko", "status": "écrit…",
+     "messages": [
+       {"from": "them", "text": "Les deux 🙏 Grand mais discret", "time": "10:06"},
+       {"from": "them", "text": "Et mets-le en rouge. Mais pas rouge. Un rouge… bleu.", "time": "10:07"},
+       {"from": "me", "text": "Un rouge bleu ?!", "time": "10:07"},
+       {"from": "them", "text": "Tu as le *mayele*, moi je ne connais pas les couleurs 😌", "time": "10:08"}
+     ]},
+    {"type": "chat", "tag": "3 semaines plus tard", "who": "Client Kitoko", "status": "en ligne",
+     "messages": [
+       {"from": "me", "text": "Voici *logo_final_v27_VRAIFINAL_2.png*", "time": "09:12"},
+       {"from": "them", "text": "Hmm… finalement la v1 était mieux 😍", "time": "09:14"},
+       {"from": "me", "text": "…", "time": "09:14"},
+       {"from": "them", "text": "Tu l'as encore ?", "time": "09:15"},
+       {"from": "me", "text": "*Makambo* 😂 Elle est là depuis le début.", "time": "09:15"}
+     ], "note": "Moralité : la v1 gagne toujours."},
+    {"type": "cta", "tag": "Chez Donova", "title": "Grand *et* petit ?\nOn sait faire.",
+     "bullets": ["Un logo *vectoriel* : grand ou petit, il reste net", "Un brief clair *avant* le premier dessin", "Couleurs choisies ensemble (oui, même le rouge-bleu)"],
+     "cta_title": "Écris-nous en DM.", "cta_text": "On ne dira jamais « petite modification » 😉"}
+  ]
+}
