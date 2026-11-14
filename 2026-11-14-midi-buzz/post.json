@@ -1,0 +1,26 @@
+{
+  "slides": [
+    {"type": "text", "tag": "Marketing drôle", "big": "🚀", "big_size": 200, "top": 300,
+     "title": "Ta pub\n*« va buzzer »*",
+     "body": "Le récit heure par heure. Swipe 👀"},
+    {"type": "chat", "tag": "08h02 → 12h30", "who": "Ndeko Papy", "status": "en ligne",
+     "messages": [
+       {"from": "me", "text": "Pub publiée 🚀 Celle-là va *buzzer*, ya solo.", "time": "08:02"},
+       {"from": "them", "text": "Combien de vues déjà ?", "time": "08:05"},
+       {"from": "me", "text": "Laisse l'algorithme se réveiller 😎", "time": "08:06"},
+       {"from": "them", "text": "Alors, ça chauffe ? 😏", "time": "12:30"},
+       {"from": "me", "text": "3 vues. Dont 2 sont moi.", "time": "12:31"}
+     ]},
+    {"type": "chat", "tag": "23h47 · le bilan", "who": "Maman 💛", "status": "en ligne",
+     "messages": [
+       {"from": "them", "text": "Mon fils, j'ai liké ta pub 👍 *Kitoko mingi* !", "time": "23:47"},
+       {"from": "me", "text": "Merci maman 🥹 Tu es la 12e personne.", "time": "23:48"},
+       {"from": "them", "text": "Les 11 autres, c'est tonton, tantine et les cousins.", "time": "23:49"},
+       {"from": "me", "text": "Donc les 12 likes… c'est la famille.", "time": "23:49"},
+       {"from": "them", "text": "Mokolo mosusu ça va buzzer, *kobanga te* 🙏", "time": "23:50"}
+     ], "note": "Moralité : la famille like toujours en premier."},
+    {"type": "cta", "tag": "Chez Donova", "title": "Le buzz,\nça se *prépare*.\nLa famille,\nelle *like* déjà.",
+     "bullets": ["Un message clair *avant* la pub", "Une pub vue par ceux qui *achètent*", "Des résultats *au-delà de la famille* 😄"],
+     "cta_title": "Ton prochain buzz commence ici.", "cta_text": "Écris-nous en DM. Maman sera fière aussi 😉"}
+  ]
+}
