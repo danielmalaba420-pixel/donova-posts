@@ -1,0 +1,22 @@
+{
+  "slides": [
+    {"type": "text", "tag": "Marketing drôle", "big": "🔮", "big_size": 200, "top": 300,
+     "title": "Horoscope du\n*community manager*",
+     "body": "Chaque signe a sa panne de réseau. Swipe 👀"},
+    {"type": "tips", "tag": "Horoscope · cette semaine", "title": "Les astres\n*ont parlé*",
+     "tips": [
+       {"t": "♈ Bélier", "d": "Tu publies à 8h00. Le réseau coupe à 7h59. Les astres ont de l'humour."},
+       {"t": "♉ Taureau", "d": "Upload à 99 %. Tu regardes le cercle tourner. Il te regarde aussi."},
+       {"t": "♊ Gémeaux", "d": "4 % de batterie, 1 idée géniale. Tu sauves l'idée. Le téléphone, mokolo mosusu."}
+     ]},
+    {"type": "tips", "tag": "Horoscope · suite", "title": "La suite\ndes *prédictions*",
+     "tips": [
+       {"t": "♌ Lion", "d": "Ton post va cartonner. Le client écrit : « On peut le supprimer ? »"},
+       {"t": "♎ Balance", "d": "Mercure est rétrograde, le client change le brief. Il le change chaque semaine, ndeko. Mercure n'y est pour rien."},
+       {"t": "♓ Poissons", "d": "Le Wi-Fi du quartier revient à 23h47. Toi aussi. Ya solo."}
+     ]},
+    {"type": "cta", "tag": "Chez Donova", "title": "Les astres disent :\n*kobanga te.*",
+     "bullets": ["Tes posts *programmés à l'avance*", "Un réseau qui coupe ? *Ta pub passe quand même*", "Un client qui change le brief ? On *gère* 😄"],
+     "cta_title": "Ton signe : « Écrire à Donova ».", "cta_text": "Écris-nous en DM, tant que le réseau tient 😉"}
+  ]
+}
