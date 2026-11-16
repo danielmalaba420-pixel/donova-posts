@@ -1,0 +1,19 @@
+{"slides":[
+{"type":"text","tag":"Marketing drôle","big":"📖","big_size":200,"top":280,
+ "title":"Le dictionnaire du marketing\n*selon Kinshasa*","body":"Les vraies définitions, *ya solo*. Swipe 👀"},
+{"type":"tips","tag":"Dico · Page 1","title":"Buzz, viral,\n*reach*","size":60,
+ "tips":[{"t":"Buzz","d":"Ce que ta pub va faire demain, c'est sûr. Résultat : 12 likes, dont ta maman."},
+ {"t":"Viral","d":"Quand ton ndeko partage ton post dans 3 groupes WhatsApp."},
+ {"t":"Reach","d":"Le nombre de personnes qui l'ont vu : toi, 40 fois."}]},
+{"type":"tips","tag":"Dico · Page 2","title":"Brief, budget,\n*inbox*","size":60,
+ "tips":[{"t":"Brief","d":"Un document rare. Le client : « Tout est dans ma tête. »"},
+ {"t":"Budget","d":"Se dit « on en parle après ». Le mbongo, lui, reste introuvable."},
+ {"t":"Inbox","d":"Endroit mystérieux où vivent tous les prix. Personne n'en est jamais revenu."}]},
+{"type":"versus","tag":"Le mot de la fin","title":"« Petite\nmodification »","size":60,
+ "a":{"label":"Le client dit","text":"« Juste une petite modification, 2 minutes. »"},
+ "b":{"label":"En vrai","text":"On change le logo, les couleurs et le nom. Makambo mingi, pour ce soir."},
+ "note":"Définition validée par tous les graphistes 😂"},
+{"type":"cta","tag":"Chez Donova","title":"Nous, on parle\n*brief*, devis\net délais.","size":70,
+ "bullets":["Un brief clair, *kobanga te*","Un devis *avant* de commencer","Une « petite modification » = *vraiment petite*"],
+ "cta_title":"Pas besoin de dictionnaire pour nous comprendre.","cta_text":"Écris-nous en DM, même à 23h47 😉"}
+]}
