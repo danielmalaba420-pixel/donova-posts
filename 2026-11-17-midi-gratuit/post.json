@@ -1,0 +1,27 @@
+{"slides":[
+{"type":"text","tag":"Marketing drôle","big":"🎁","big_size":200,"top":280,
+ "title":"Un client veut une pub\n*comme les grandes marques*","body":"Budget : *zéro*. Swipe pour la conversation 👀"},
+{"type":"chat","tag":"Lundi · 10h02","who":"Client Visionnaire","status":"en ligne",
+ "messages":[
+  {"from":"them","text":"Bonjour ndeko 🙏 Mon projet est très grand","time":"10:02"},
+  {"from":"them","text":"Je veux une pub comme les grandes marques","time":"10:02"},
+  {"from":"me","text":"Avec plaisir ! Tu as quel budget ?","time":"10:05"},
+  {"from":"them","text":"Le budget est *moke*… en fait c'est gratuit 😅","time":"10:06"},
+  {"from":"them","text":"Ça te fera de la visibilité 🙏","time":"10:06"}
+ ]},
+{"type":"chat","tag":"Le lendemain · 8h15","who":"Client Visionnaire","status":"écrit…",
+ "messages":[
+  {"from":"them","text":"Mets juste un drone, un chanteur et un feu d'artifice","time":"08:15"},
+  {"from":"me","text":"Et le *mbongo* pour le drone ?","time":"08:17"},
+  {"from":"them","text":"Gratuit hein, comme on a dit 😎","time":"08:17"},
+  {"from":"me","text":"Et pour le feu d'artifice ?","time":"08:18"},
+  {"from":"them","text":"Tu es créatif, tu as les *mayele* 💪","time":"08:18"}
+ ],"note":"Les *mayele* ne paient pas le drone."},
+{"type":"versus","tag":"La traduction","title":"« Comme les\ngrandes marques »","size":60,
+ "a":{"label":"Il dit","text":"« Une petite pub simple, comme les grandes marques. »"},
+ "b":{"label":"Il veut dire","text":"Un drone, un chanteur et un feu d'artifice, payés en visibilité. *Mingi.*"},
+ "note":"La visibilité, monnaie préférée de tous les clients 😂"},
+{"type":"cta","tag":"Chez Donova","title":"Une pub de\n*grande marque* ?\nOn commence petit.","size":70,
+ "bullets":["Un devis clair, même *moke*","Des *mayele*, oui. Des miracles, non","Une pub qui marche *à ton budget*"],
+ "cta_title":"Un petit budget a le droit d'être kitoko.","cta_text":"Écris-nous en DM. Le drone, on en reparle 😉"}
+]}
