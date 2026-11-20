@@ -1,0 +1,23 @@
+{"slides":[
+{"type":"cover","tag":"Marketing drôle · GTA","photo":"photo1.jpg","photo_credit":"Photo : João Ferrão / Unsplash","photo_pos":"center 40%",
+ "title":"Dans GTA, tout est *facile*.\nÀ Kin, il y a les clients.","swipe":"Swipe pour comparer","size":76},
+{"type":"versus","tag":"Le mbongo","title":"GTA vs\nla vraie vie","size":60,
+ "a":{"label":"Dans GTA","text":"Une mission de 10 minutes. Des millions sur ton compte."},
+ "b":{"label":"À Kinshasa","text":"Un logo livré. Le client dit « on en parle après ». *Mokolo mosusu.*"},
+ "note":"Le paiement est encore en chargement… 12 % 😅"},
+{"type":"versus","tag":"La pub","title":"GTA vs\nla vraie vie","size":60,
+ "a":{"label":"Dans GTA","text":"Ta pub est sur tous les panneaux de la ville."},
+ "b":{"label":"À Kinshasa","text":"Ta pub a 12 likes. Dont ta maman. *Kitoko* quand même."},
+ "note":"Maman, c'est notre meilleure ambassadrice 🙏"},
+{"type":"chat","tag":"Vendredi · 11h20","who":"Client Gamer","status":"en ligne",
+ "messages":[
+  {"from":"them","text":"Frère, tu peux faire ma pub comme une bande-annonce de GTA ? 🎮","time":"11:20"},
+  {"from":"me","text":"*Kitoko* ! Et le budget ?","time":"11:21"},
+  {"from":"them","text":"Le budget, c'est une mission secrète 🤫","time":"11:21"},
+  {"from":"me","text":"Et la date de sortie ?","time":"11:22"},
+  {"from":"them","text":"Comme GTA : on va reporter deux fois 😅","time":"11:22"}
+ ],"note":"*Ya solo*, ce client a tout compris au marketing."},
+{"type":"cta","tag":"Chez Donova","title":"Ta pub ne sera\npas *dans GTA*.\nMais elle sortira à l'heure.","size":62,
+ "bullets":["Un devis clair, sans *mission secrète*","Une date de sortie *respectée*","Une pub *kitoko*, même sans hélicoptère"],
+ "cta_title":"Pas de report chez nous.","cta_text":"Écris-nous en DM, même entre deux parties 🎮"}
+]}
