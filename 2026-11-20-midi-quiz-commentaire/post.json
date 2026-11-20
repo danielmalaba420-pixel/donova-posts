@@ -1,0 +1,23 @@
+{"slides":[
+{"type":"text","tag":"Marketing drôle","big":"💬","big_size":200,"top":280,
+ "title":"Tu es quel *commentaire*\nsous une annonce ?","body":"Quiz officiel. Sois honnête, *ya solo* 😅 Swipe."},
+{"type":"chat","tag":"Sous l'annonce · 09h00","who":"Boutique Kitoko","status":"a publié",
+ "messages":[
+  {"from":"me","text":"Nouvelle collection 🛍️ Prix et détails dans la légende","time":"09:00"},
+  {"from":"them","text":"Prix ?","time":"09:01"},
+  {"from":"them","text":"Inbox","time":"09:01"},
+  {"from":"them","text":"Dispo ?","time":"09:02"},
+  {"from":"me","text":"Le prix est dans la légende 😭","time":"09:03"}
+ ],"note":"Personne n'a lu la *légende*. Personne."},
+{"type":"versus","tag":"Résultat du quiz","title":"Tu as écrit\n« Inbox »","size":60,
+ "a":{"label":"Tu as commenté","text":"« Inbox »"},
+ "b":{"label":"Ça veut dire","text":"Je veux le prix, mais pas devant *tout le monde*. Le *mbongo* est un secret d'État."},
+ "note":"Ensuite : « vu » à 14h. Réponse le jeudi 😂"},
+{"type":"versus","tag":"Résultat du quiz","title":"Tu as écrit\n« 🔥🔥🔥 »","size":60,
+ "a":{"label":"Tu as commenté","text":"« 🔥🔥🔥 »"},
+ "b":{"label":"Ça veut dire","text":"Je ne vais rien acheter, mais je soutiens *moralement*. Merci, *ndeko*."},
+ "note":"Le soutien moral ne paie pas le fournisseur 😅"},
+{"type":"cta","tag":"Chez Donova","title":"Des annonces qu'on\n*lit jusqu'au bout.*\nMême la légende.","size":66,
+ "bullets":["Le prix *visible* dès la slide 1","Une annonce *kitoko*, claire, sans devinette","Des clients qui achètent, pas juste des 🔥"],
+ "cta_title":"Ton annonce mérite mieux que « Inbox ».","cta_text":"Écris-nous en DM. On te répond, même le jeudi 😉"}
+]}
