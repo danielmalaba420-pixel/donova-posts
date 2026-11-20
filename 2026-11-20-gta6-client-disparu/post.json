@@ -1,0 +1,27 @@
+{"slides":[
+{"type":"text","tag":"Marketing drôle · GTA 6","big":"🎮","big_size":200,"top":280,
+ "title":"GTA 6 est sorti.\nTon client a *disparu*.","body":"Swipe pour lire l'enquête 👀"},
+{"type":"chat","tag":"Jeudi · 08h00","who":"Client Disponible","status":"en ligne",
+ "messages":[
+  {"from":"me","text":"Bonjour ! Ta pub est prête, tu valides ?","time":"08:00"},
+  {"from":"them","text":"Oui frère, je regarde dans la journée 🙏","time":"08:02"},
+  {"from":"me","text":"Super ! Je te l'envoie ?","time":"08:02"},
+  {"from":"them","text":"Envoie, envoie 👍","time":"08:03"},
+  {"from":"me","text":"Envoyée ✅","time":"08:04"}
+ ]},
+{"type":"chat","tag":"Vendredi · le lendemain","who":"Client Disponible","status":"vu à 02h14",
+ "messages":[
+  {"from":"me","text":"Un petit retour sur la pub ?","time":"10:00"},
+  {"from":"them","text":"Frère, je suis en mission 🎮","time":"14:37"},
+  {"from":"me","text":"Quelle mission ?","time":"14:37"},
+  {"from":"them","text":"*Ya solo*, la ville est trop *kitoko*. Je ne peux pas parler","time":"14:38"},
+  {"from":"me","text":"Et la pub ?","time":"14:38"}
+ ],"note":"Dernier message du client : *vu*."},
+{"type":"versus","tag":"Les excuses du week-end","title":"Ce qu'un client\nveut dire","size":56,
+ "a":{"label":"Il dit","text":"« Je suis en réunion »"},
+ "b":{"label":"Il veut dire","text":"« Je suis en pleine partie. Ne me dérange pas. *Likambo te*, lundi je valide. »"},
+ "note":"Lundi arrive. La pub attend toujours 😂"},
+{"type":"cta","tag":"Chez Donova","title":"Une pub se valide\nen *2 minutes.*\nManette en main.","size":66,
+ "bullets":["Un retour *rapide* = une pub en ligne","Pas besoin de mettre pause, *nous on attend*","Un devis, une date, une pub *kitoko*"],
+ "cta_title":"Ta pub ne bug pas. Écris-nous.","cta_text":"En DM, même entre deux missions 😉"}
+]}
