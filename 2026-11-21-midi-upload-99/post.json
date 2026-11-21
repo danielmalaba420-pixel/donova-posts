@@ -1,0 +1,25 @@
+{"slides":[
+{"type":"text","tag":"Marketing drôle","big":"99%","big_size":220,"top":280,
+ "title":"Les 5 stades du deuil\nquand l'upload bloque\nà *99 %*","body":"Tout community manager de Kinshasa connaît. Swipe 😭"},
+{"type":"chat","tag":"Upload de la pub · 11h58","who":"Moi-même","status":"réseau : 1 barre",
+ "messages":[
+  {"from":"me","text":"Stade 1 : le déni. « C'est le *réseau* qui charge, ça va passer »","time":"11:58"},
+  {"from":"me","text":"Stade 2 : la colère. J'éteins le Wi-Fi. Je rallume. Je re-éteins.","time":"12:03"},
+  {"from":"me","text":"Stade 3 : le marchandage. « Juste 1 %, *ndeko*, et je ne demande plus rien à personne »","time":"12:09"},
+  {"from":"them","text":"Frère la pub est où ? Le client demande 🙏","time":"12:10"}
+ ],"note":"Toujours *99 %*. Depuis 12 minutes."},
+{"type":"chat","tag":"Upload de la pub · 12h47","who":"Moi-même","status":"écrit…",
+ "messages":[
+  {"from":"me","text":"Stade 4 : la dépression. Je regarde la barre. La barre me regarde.","time":"12:31"},
+  {"from":"me","text":"Stade 5 : l'acceptation. Je ferme tout. Je recommence. *Mokolo mosusu*.","time":"12:47"},
+  {"from":"them","text":"Ça y est ! Publié ✅","time":"12:48"},
+  {"from":"them","text":"Ah non, c'était la mauvaise vidéo 😭","time":"12:49"}
+ ],"note":"Le vrai 6e stade : *recommencer*."},
+{"type":"versus","tag":"La traduction","title":"Ce que dit\nla barre","size":60,
+ "a":{"label":"Elle affiche","text":"« 99 % — presque terminé »"},
+ "b":{"label":"Elle veut dire","text":"« J'ai fini… quand j'aurai envie. Mets-toi à l'aise, *ndeko*. »"},
+ "note":"Et toi, tu en es à quel stade ? 😂"},
+{"type":"cta","tag":"Chez Donova","title":"Nos pubs sont\n*publiées à 100 %.*\nPromis.","size":66,
+ "bullets":["Un contenu *prêt avant* l'heure","Une pub *kitoko*, du premier coup","Un fichier léger, même avec *1 barre*"],
+ "cta_title":"Ne laisse pas ta pub à 99 %.","cta_text":"Écris-nous en DM. On finit le dernier 1 % pour toi 😉"}
+]}

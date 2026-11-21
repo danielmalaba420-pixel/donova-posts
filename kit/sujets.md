@@ -32,7 +32,7 @@ Quand il reste 5 sujets libres, en inventer 10 nouveaux dans le même esprit.
 - [x] 2026-11-16 — Dictionnaire marketing selon Kinshasa : buzz, viral, reach, brief, « petite modification »
 - [x] 2026-11-17 — Chat : un client qui veut « une pub comme les grandes marques, mais gratuite » (aucune vraie marque citée)
 - [x] 2026-11-20 — Quiz : tu es quel commentaire sous une annonce ? (« Prix ? », « Inbox », « Dispo ? », « 🔥🔥🔥 »)
-- [ ] Les 5 stades du deuil quand l'upload s'arrête à 99 %
+- [x] 2026-11-21 — Les 5 stades du deuil quand l'upload s'arrête à 99 %
 - [ ] Marketing d'influence : quand ton cousin devient « ambassadeur de la marque » (chat + versus)
 
 ## Soir (19h) — « Le saviez-vous ? » : histoires vraies de marques, logos, internet
