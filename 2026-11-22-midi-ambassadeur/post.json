@@ -1,0 +1,26 @@
+{"slides":[
+{"type":"text","tag":"Marketing drôle","big":"VIP","big_size":260,"top":280,
+ "title":"Ton cousin est devenu\n*ambassadeur* de la marque","body":"Il a 212 abonnés. Dont 200 de la famille. Swipe 👀"},
+{"type":"chat","tag":"Lundi · 09h12","who":"Cousin Ambassadeur","status":"en ligne",
+ "messages":[
+  {"from":"them","text":"Frère, grande nouvelle 🙏 Je suis maintenant *ambassadeur* de ta marque","time":"09:12"},
+  {"from":"me","text":"Ah bon ? Qui a signé le contrat ?","time":"09:13"},
+  {"from":"them","text":"Moi. Je me suis signé moi-même. C'est officiel 😎","time":"09:13"},
+  {"from":"me","text":"Et tu vas faire quoi, comme ambassadeur ?","time":"09:14"},
+  {"from":"them","text":"Ma story. Je tiens ton produit devant mon visage pendant 3 secondes","time":"09:15"}
+ ]},
+{"type":"chat","tag":"Le lendemain · 18h30","who":"Cousin Ambassadeur","status":"écrit…",
+ "messages":[
+  {"from":"them","text":"Mon cachet d'ambassadeur : le crédit internet + un déjeuner","time":"18:30"},
+  {"from":"me","text":"Et les résultats de la story ?","time":"18:31"},
+  {"from":"them","text":"212 vues. Dont maman, *47 fois* 🔥","time":"18:32"},
+  {"from":"them","text":"*Likambo te*, ça a buzzé. Ma tante a même commenté « 🙏 »","time":"18:32"}
+ ],"note":"Le *reach* : 1 famille. Le *ROI* : 1 déjeuner."},
+{"type":"versus","tag":"La traduction","title":"L'ambassadeur\nselon le cousin","size":60,
+ "a":{"label":"Il dit","text":"« Je vais faire connaître ta marque partout »"},
+ "b":{"label":"Il veut dire","text":"« Maman va liker. Ma tante aussi, *mingi*. »"},
+ "note":"Et toi, ton ambassadeur c'est qui ? 😂"},
+{"type":"cta","tag":"Chez Donova","title":"Un vrai ambassadeur,\nça se choisit\navec *mayele*.","size":64,
+ "bullets":["Une audience *réelle*, pas la famille","Un contrat *avant* la story","Des résultats qu'on *mesure*"],
+ "cta_title":"Trouvons le bon ambassadeur.","cta_text":"Écris-nous en DM. Ta tante peut liker après 😉"}
+]}
