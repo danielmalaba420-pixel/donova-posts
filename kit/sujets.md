@@ -34,6 +34,7 @@ Quand il reste 5 sujets libres, en inventer 10 nouveaux dans le même esprit.
 - [x] 2026-11-20 — Quiz : tu es quel commentaire sous une annonce ? (« Prix ? », « Inbox », « Dispo ? », « 🔥🔥🔥 »)
 - [x] 2026-11-21 — Les 5 stades du deuil quand l'upload s'arrête à 99 %
 - [x] 2026-11-22 — Marketing d'influence : quand ton cousin devient « ambassadeur de la marque » (chat + versus)
+- [x] 2026-11-23 — Le devis « vu » : envoyé, lu en 4 secondes, « on revient vers vous », le cousin au téléphone, réduction famille (3 chats)
 
 ## Soir (19h) — « Le saviez-vous ? » : histoires vraies de marques, logos, internet
 

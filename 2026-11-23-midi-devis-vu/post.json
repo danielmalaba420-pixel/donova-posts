@@ -1,0 +1,30 @@
+{"slides":[
+{"type":"text","tag":"Marketing drôle","big":"Vu ✓✓","big_size":190,"top":300,
+ "title":"Tu envoies *le devis*.\nIl le lit en 4 secondes.",
+ "body":"Et après ? Swipe pour la suite 👀"},
+{"type":"chat","tag":"Lundi · 09:12","who":"Client Sérieux","status":"en ligne",
+ "messages":[
+  {"from":"me","text":"Bonjour ! Voici le devis comme promis 📎","time":"09:12"},
+  {"from":"them","text":"Bien reçu 🙏","time":"09:13"},
+  {"from":"them","text":"On étudie ça et on revient vers vous","time":"09:13"},
+  {"from":"me","text":"Parfait, je reste disponible !","time":"09:14"}
+ ],"note":"« On revient vers vous » = *mokolo mosusu*."},
+{"type":"chat","tag":"3 semaines plus tard","who":"Client Sérieux","status":"écrit…",
+ "messages":[
+  {"from":"me","text":"Bonjour 😊 je reviens sur le devis","time":"10:02"},
+  {"from":"them","text":"Ah oui ! C'est un peu *mingi* pour nous","time":"10:40"},
+  {"from":"them","text":"Mon cousin le fait à 10 000 francs","time":"10:41"},
+  {"from":"me","text":"Il a déjà fait des logos ?","time":"10:41"},
+  {"from":"them","text":"Il a un téléphone 😎","time":"10:42"}
+ ]},
+{"type":"chat","tag":"3 mois plus tard","who":"Client Sérieux","status":"en ligne",
+ "messages":[
+  {"from":"them","text":"Frère, le logo de mon cousin est *flou* 😭","time":"08:15"},
+  {"from":"them","text":"Tu peux refaire le tien ?","time":"08:15"},
+  {"from":"me","text":"Mon devis est toujours « vu » depuis juin 😌","time":"08:17"},
+  {"from":"them","text":"*Ya solo*. Mais avec la réduction famille 🙏","time":"08:18"}
+ ],"note":"Moralité : le devis a *tout lu*. Il attend."},
+{"type":"cta","tag":"Chez Donova","title":"Un devis *clair.*\nUne réponse *rapide.*\nZéro « vu ».",
+ "bullets":["Un devis *clair*, sans surprise","Un travail *livré à la date promise*","Un logo *net*, même sur grand écran"],
+ "cta_title":"Ton devis t'attend. Nous aussi.","cta_text":"Écris-nous en DM, on ne te laissera pas en « vu » 😉"}
+]}
