@@ -35,6 +35,17 @@ Quand il reste 5 sujets libres, en inventer 10 nouveaux dans le même esprit.
 - [x] 2026-11-21 — Les 5 stades du deuil quand l'upload s'arrête à 99 %
 - [x] 2026-11-22 — Marketing d'influence : quand ton cousin devient « ambassadeur de la marque » (chat + versus)
 - [x] 2026-11-23 — Le devis « vu » : envoyé, lu en 4 secondes, « on revient vers vous », le cousin au téléphone, réduction famille (3 chats)
+- [x] 2026-11-24 — Offre d'emploi parodique : une seule personne pour 5 métiers, « salaire : on en parle après » (tips + versus + chat)
+- [ ] Chronologie : la page Instagram d'un petit commerce, jour 1 → jour 30 (12 abonnés dont la famille)
+- [ ] Chat : le client qui paiera « quand la pub aura marché »
+- [ ] Recette de cuisine de la pub virale (ingrédients : 1 chat, 1 danse, 0 budget)
+- [ ] Météo du community manager : prévisions de likes, de réseau et de « Dispo ? »
+- [ ] Chat : le groupe WhatsApp de l'équipe à 2h du matin (« c'est urgent pour demain »)
+- [ ] Bingo du client : les excuses pour ne pas payer l'acompte
+- [ ] Parodie de pub : le produit « miracle » qui règle tous les problèmes de ta marque
+- [ ] « Description vs réalité » : la photo du produit sur Instagram contre la photo reçue
+- [ ] Chat : le client qui demande « un petit logo » avec 14 modifications
+- [ ] Notice d'utilisation d'un client : mode d'emploi, précautions, effets secondaires
 
 ## Soir (19h) — « Le saviez-vous ? » : histoires vraies de marques, logos, internet
 

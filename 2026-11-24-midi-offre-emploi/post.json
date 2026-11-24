@@ -1,0 +1,28 @@
+{"slides":[
+{"type":"text","tag":"Marketing drôle","big":"RECRUTE 📢","big_size":150,"top":300,
+ "title":"Offre d'emploi :\n*une seule personne*\nrecherchée",
+ "body":"Swipe pour lire l'annonce complète 👀"},
+{"type":"tips","tag":"Profil recherché","title":"Notre candidat\n*idéal* sait faire :",
+ "tips":[
+  {"t":"Graphiste","d":"Logo, affiches, flyers. Pour hier."},
+  {"t":"Vidéaste","d":"Un Reel « qui va buzzer ». Caméra non fournie."},
+  {"t":"Community manager","d":"Répond à 23h47, un dimanche, avec le sourire."},
+  {"t":"Photographe","d":"Avec le téléphone du patron, à 12 % de batterie."},
+  {"t":"Rédacteur","d":"Textes en 5 minutes, relus par toute la famille."}
+ ]},
+{"type":"versus","tag":"Lire entre les lignes","title":"L'annonce dit\nvs la réalité",
+ "a":{"label":"L'annonce dit","text":"« Poste flexible »"},
+ "b":{"label":"Ça veut dire","text":"« Disponible 24h/24, dimanche compris »"},
+ "note":"Et « ambiance familiale » ? On a tous *une idée* 😂"},
+{"type":"chat","tag":"L'entretien · 10:03","who":"Le Patron","status":"en ligne",
+ "messages":[
+  {"from":"them","text":"Ton profil nous intéresse beaucoup 🙏","time":"10:03"},
+  {"from":"me","text":"Merci ! Et le salaire ?","time":"10:04"},
+  {"from":"them","text":"On en parle après. Mais tu auras *mingi* de visibilité 😎","time":"10:04"},
+  {"from":"me","text":"La visibilité paie le loyer ?","time":"10:05"},
+  {"from":"them","text":"*Mbongo* ne fait pas le bonheur, frère","time":"10:06"}
+ ],"note":"Moralité : un poste, *cinq métiers*, zéro salaire."},
+{"type":"cta","tag":"Chez Donova","title":"Pas un superhéros.\n*Une équipe.*",
+ "bullets":["Graphisme, vidéo et réseaux, *au même endroit*","Un devis *clair* avant de commencer","Chaque métier fait *son* métier"],
+ "cta_title":"Arrête de chercher le mouton à cinq pattes.","cta_text":"Écris-nous en DM, on a le mayele pour tout ça 😉"}
+]}
