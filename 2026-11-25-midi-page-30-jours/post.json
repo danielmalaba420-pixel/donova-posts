@@ -1,0 +1,28 @@
+{"slides":[
+{"type":"text","tag":"Marketing drôle","big":"JOUR 1","big_size":190,"top":300,
+ "title":"Ta page Instagram\nde commerce :\n*30 jours* de vie",
+ "body":"Swipe pour suivre le journal de bord 👀"},
+{"type":"tips","tag":"Le journal de la page","title":"Jour 1 → jour 21,\n*en direct*",
+ "tips":[
+  {"t":"Jour 1","d":"Page créée. Bio : « Bientôt ouvert 🔥 ». Zéro post."},
+  {"t":"Jour 3","d":"12 abonnés : maman, tonton, 3 cousins et ton autre compte."},
+  {"t":"Jour 7","d":"Premier post, photo floue. 9 likes dont 8 de la famille."},
+  {"t":"Jour 14","d":"Un commentaire : « Prix ? ». Réponse 6 jours plus tard : « Inbox »."},
+  {"t":"Jour 21","d":"Tu changes le logo. Trois fois. Le même jour."}
+ ]},
+{"type":"chat","tag":"Jour 30 · 20:12","who":"Ndeko Fidèle","status":"en ligne",
+ "messages":[
+  {"from":"them","text":"Bonsoir, prix ?","time":"20:12"},
+  {"from":"me","text":"Ndeko, tu es déjà dans l'inbox là 😅","time":"20:13"},
+  {"from":"them","text":"Ah *malamu*. Alors envoie le prix en inbox","time":"20:13"},
+  {"from":"me","text":"Je te l'ai envoyé hier…","time":"20:14"},
+  {"from":"them","text":"J'ai juste fait *vu* 🙏 Tu peux répéter ?","time":"20:14"}
+ ],"note":"Le prix est dans l'inbox. L'inbox est dans le *prix*. 🌀"},
+{"type":"versus","tag":"Le bilan du mois","title":"Ce que tu espérais\nvs le réel",
+ "a":{"label":"Le rêve","text":"« 10 000 abonnés et des commandes *mingi* »"},
+ "b":{"label":"Jour 30","text":"31 abonnés, dont 28 de la famille, et un seul « Prix ? »"},
+ "note":"Mais la famille, elle, *like toujours*. Fidèle au poste 😂"},
+{"type":"cta","tag":"Chez Donova","title":"Ta page mérite\nplus que *maman*\nen abonnée.",
+ "bullets":["Un prix *affiché* : fini l'inbox","Des posts *kitoko* qui donnent envie d'acheter","Une page qui vend, pas juste qui like"],
+ "cta_title":"Fais passer ta page du jour 1 au jour 30 en beauté.","cta_text":"Écris-nous en DM, on te répond (même sans « vu » seulement) 😉"}
+]}

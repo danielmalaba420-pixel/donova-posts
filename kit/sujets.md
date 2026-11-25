@@ -36,7 +36,7 @@ Quand il reste 5 sujets libres, en inventer 10 nouveaux dans le même esprit.
 - [x] 2026-11-22 — Marketing d'influence : quand ton cousin devient « ambassadeur de la marque » (chat + versus)
 - [x] 2026-11-23 — Le devis « vu » : envoyé, lu en 4 secondes, « on revient vers vous », le cousin au téléphone, réduction famille (3 chats)
 - [x] 2026-11-24 — Offre d'emploi parodique : une seule personne pour 5 métiers, « salaire : on en parle après » (tips + versus + chat)
-- [ ] Chronologie : la page Instagram d'un petit commerce, jour 1 → jour 30 (12 abonnés dont la famille)
+- [x] 2026-11-25 — Chronologie : la page Instagram d'un petit commerce, jour 1 → jour 30 (12 abonnés dont la famille)
 - [ ] Chat : le client qui paiera « quand la pub aura marché »
 - [ ] Recette de cuisine de la pub virale (ingrédients : 1 chat, 1 danse, 0 budget)
 - [ ] Météo du community manager : prévisions de likes, de réseau et de « Dispo ? »
