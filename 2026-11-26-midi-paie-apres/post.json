@@ -1,0 +1,32 @@
+{"slides":[
+{"type":"text","tag":"Marketing drôle","big":"💸","big_size":200,"top":280,
+ "title":"« Je te paie *quand la pub\naura marché* »",
+ "body":"Spoiler : elle a marché. Swipe pour la suite 👀"},
+{"type":"chat","tag":"Lundi · 08:00","who":"Client Confiant","status":"en ligne",
+ "messages":[
+  {"from":"them","text":"Ndeko, fais-moi la pub. Je paie *quand elle aura marché* 🙏","time":"08:00"},
+  {"from":"me","text":"Marché comment ?","time":"08:02"},
+  {"from":"them","text":"Tu verras. Quand ça marche, ça marche 😎","time":"08:03"},
+  {"from":"me","text":"Et l'acompte ?","time":"08:03"},
+  {"from":"them","text":"L'acompte, c'est ma *confiance* 🤝","time":"08:04"}
+ ]},
+{"type":"chat","tag":"5 jours plus tard","who":"Client Confiant","status":"écrit…",
+ "messages":[
+  {"from":"me","text":"Bonne nouvelle : 200 « Prix ? » en inbox 🔥","time":"12:10"},
+  {"from":"them","text":"Les « Prix ? », ça ne se mange pas. Je veux des clients","time":"12:11"},
+  {"from":"me","text":"Il y a 40 personnes devant ta boutique","time":"12:12"},
+  {"from":"them","text":"Elles regardent. Je veux qu'elles *achètent*","time":"12:13"},
+  {"from":"me","text":"Ton stock est fini depuis midi 😳","time":"12:14"}
+ ],"note":"« Allô ? Le *réseau* coupe… » 📵"},
+{"type":"chat","tag":"2 semaines plus tard","who":"Client Confiant","status":"en ligne",
+ "messages":[
+  {"from":"me","text":"Tu ouvres une 2e boutique ! La pub a marché ?","time":"17:30"},
+  {"from":"them","text":"*Ya solo*, elle a marché","time":"17:48"},
+  {"from":"me","text":"Super ! Donc le paiement ?","time":"17:48"},
+  {"from":"them","text":"Justement, elle a *trop* marché. Débordé 😮‍💨","time":"17:55"},
+  {"from":"them","text":"Je te paie quand ça va *se calmer* 🙏","time":"17:55"}
+ ],"note":"Date prévue du paiement : *mokolo mosusu*."},
+{"type":"cta","tag":"Chez Donova","title":"On fixe l'acompte\n*avant* que\nça buzze.","size":70,
+ "bullets":["Un objectif *clair* dès le départ","Un devis et un acompte *avant* de commencer","Une pub *kitoko*, livrée à la date promise"],
+ "cta_title":"Ta pub peut marcher. Même trop.","cta_text":"Écris-nous en DM avant d'être débordé 😉"}
+]}
